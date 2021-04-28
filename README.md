@@ -21,8 +21,7 @@
 
 🛠 Tech Stack
 
-- 💻   Python | Kotlin | Java | C++ | Android Frameworks | YAML
-- 🌐   Android | Python | Bash Script | GoLang | Flutter
+- 💻   Android | Python | Kotlin | Java | C++ | Android Frameworks | YAML | Bash Script | GoLang | Flutter
 - 🛢    NoSQL | ORM | Firebase | Parse | Realm | MongoDB 
 - 🔧   Android Studio | IntelliJ IDEA | PyCharm | Visual Studio code | Eclipse | Git | PlayStore
 
