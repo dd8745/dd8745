@@ -18,7 +18,6 @@
 - 🌱   A Compitative Programmer. Enthusiast in cyber Security, reverse engineering and Artificial Intelligence. 
 - ✍️   Cricket, Football and Badminton Player. In a crush with Squash.
 - ☕   I belive, a perfect cup of coffee can be the ultimate solution for any stress.
-- 📫   Reach me on debasishkumar.das@zebra.com
 
 🛠 Tech Stack
 
