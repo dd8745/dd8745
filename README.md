@@ -16,7 +16,7 @@
 - 🎓   Studying computer programming and Statistical Analysis.
 - 💼   An Android Developer. A Blogger. Bringing automations to everyday boring stuffs.
 - 🌱   A Compitative Programmer. Enthusiast in cyber Security, reverse engineering and Artificial Intelligence. 
-- ✍️   Cricketer, Footballer. Badminton Player. In a crush with Squash.
+- ✍️   Cricketer, Footballer. Badminton Player. In a crush with Squash. 
 - ☕   I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 🛠 Tech Stack
