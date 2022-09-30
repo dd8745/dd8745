@@ -10,6 +10,8 @@
 
 👨🏻‍💻 About Me
 
+<a href="https://app.daily.dev/DebasishD"><img src="https://api.daily.dev/devcards/804b996b963744299b4512b1f5ad4ff5.png?r=mtu" width="300" alt="Debasish Das's Dev Card"/>
+
 - 👋   Lives, Works and Partying in india. 🤞    Self taught learner, programmer and publisher. 
 - 🔭   I’m currently learning Flutter Mobile ande Web Application Development. Also, Putting fingers into backend development using GoLang. 
 - 🤔   Exploring new technologies, developing software solutions and quick hacks.
